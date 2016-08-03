@@ -1,1 +1,3 @@
-# Gest-o-de-Configura-o
+# Gestao-de-Configuracao
+#aula1
+#exercicio1
